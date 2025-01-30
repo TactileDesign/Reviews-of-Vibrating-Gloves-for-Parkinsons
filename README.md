@@ -2,7 +2,7 @@
 
 On December 13, 2022, The Today Show aired an amazing story about Dr. Tass's Stanford Gloves for the treatment of Parkinsons. (See, https://www.youtube.com/watch?v=YEEwbxFT4Bc ).  The gloves worked to relieve many of the symptoms of PD through stimulating the brain non-invasively with gentle vibrational pulses administered in a special sequence to the wearer's fingertips.  The story immediately created great excitement and hope for people with Parkinsons and their supporters everywhere.  
 
-Given that the availability of Dr. Tass's treatment was projected to be many years into the future, engineers with PD and their supporters around the world began intense local DIY efforts to replicate the Stanford Gloves based on the specifications provided in Dr. Tass's numerous research papers.  These DIY developers shared ideas and designs on the web through various PD forums, websites, and YouTube posts.   
+Given that the availability of Dr. Tass's treatment was projected to be some years into the future, engineers with PD and their supporters around the world began intense local DIY efforts to replicate the Stanford Gloves based on the specifications provided in Dr. Tass's numerous research papers.  These DIY developers shared ideas and designs on the web through various PD forums, websites, and YouTube posts.   
 
 This free pdf document is an effort by two of the many developers involved in the DIY PD glove movement to: 
 
